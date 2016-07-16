@@ -1,0 +1,10 @@
+INDEX VERSION 1.127+/Users/Jason/Desktop/codingKatas/java/.metadata/.plugins/org.eclipse.jdt.core
+2160561968.index
+1829747201.index
+1676179634.index
+608770163.index
+28899338.index
+3923552749.index
+1089974830.index
+498598657.index
+1780027669.index
