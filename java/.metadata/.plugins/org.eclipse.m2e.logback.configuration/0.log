@@ -1,0 +1,128 @@
+2016-07-16 12:08:17,612 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial1:Tutorial1:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial1/pom.xml.
+2016-07-16 12:08:18,648 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:08:18,652 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial1/src/main/resources
+2016-07-16 12:08:18,655 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:08:18,656 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial1/src/test/resources
+2016-07-16 12:08:18,676 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial1/src
+2016-07-16 12:08:18,680 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial1/src/test/java because it overlaps with /Tutorial1/src
+2016-07-16 12:08:18,795 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-16 12:08:19,316 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial1:Tutorial1:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial1/pom.xml.
+2016-07-16 12:08:19,577 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial1/src
+2016-07-16 12:08:19,579 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial1/src/test/java because it overlaps with /Tutorial1/src
+2016-07-16 12:08:19,681 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-16 12:08:19,896 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:08:19,897 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial1/src/main/resources
+2016-07-16 12:08:19,901 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:08:19,901 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial1/src/test/resources
+2016-07-16 12:08:26,525 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:08:26,526 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial1/src/main/resources
+2016-07-16 12:08:26,527 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:08:26,528 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial1/src/test/resources
+2016-07-16 12:08:51,341 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:08:51,342 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial1/src/main/resources
+2016-07-16 12:08:51,343 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:08:51,344 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial1/src/test/resources
+2016-07-16 12:09:01,385 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:09:01,386 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial1/src/main/resources
+2016-07-16 12:09:01,387 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:09:01,387 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial1/src/test/resources
+2016-07-16 12:15:30,868 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:15:30,869 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial1/src/main/resources
+2016-07-16 12:15:30,870 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:15:30,871 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial1/src/test/resources
+2016-07-16 12:15:46,695 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial3_WhileLoops:Tutorial3_WhileLoops:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial3_WhileLoops/pom.xml.
+2016-07-16 12:15:46,865 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial3_WhileLoops/src
+2016-07-16 12:15:46,866 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial3_WhileLoops/src/test/java because it overlaps with /Tutorial3_WhileLoops/src
+2016-07-16 12:15:46,899 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-16 12:15:46,929 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial3_WhileLoops:Tutorial3_WhileLoops:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial3_WhileLoops/pom.xml.
+2016-07-16 12:15:47,022 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial3_WhileLoops/src
+2016-07-16 12:15:47,023 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial3_WhileLoops/src/test/java because it overlaps with /Tutorial3_WhileLoops/src
+2016-07-16 12:15:47,085 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-16 12:15:47,209 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:15:47,210 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial3_WhileLoops/src/main/resources
+2016-07-16 12:15:47,212 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:15:47,212 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial3_WhileLoops/src/test/resources
+2016-07-16 12:18:43,848 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial5_ForLoops:Tutorial5_ForLoops:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial5_ForLoops/pom.xml.
+2016-07-16 12:18:43,975 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial5_ForLoops/src
+2016-07-16 12:18:43,977 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial5_ForLoops/src/test/java because it overlaps with /Tutorial5_ForLoops/src
+2016-07-16 12:18:44,058 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-16 12:18:44,093 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial5_ForLoops:Tutorial5_ForLoops:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial5_ForLoops/pom.xml.
+2016-07-16 12:18:44,200 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial5_ForLoops/src
+2016-07-16 12:18:44,200 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial5_ForLoops/src/test/java because it overlaps with /Tutorial5_ForLoops/src
+2016-07-16 12:18:44,251 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-16 12:18:44,380 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:18:44,382 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial5_ForLoops/src/main/resources
+2016-07-16 12:18:44,384 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:18:44,385 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial5_ForLoops/src/test/resources
+2016-07-16 12:18:51,997 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial6_IfStatements:Tutorial6_IfStatements:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial6_IfStatements/pom.xml.
+2016-07-16 12:18:52,146 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial6_IfStatements/src
+2016-07-16 12:18:52,148 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial6_IfStatements/src/test/java because it overlaps with /Tutorial6_IfStatements/src
+2016-07-16 12:18:52,195 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-16 12:18:52,281 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial6_IfStatements:Tutorial6_IfStatements:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial6_IfStatements/pom.xml.
+2016-07-16 12:18:52,341 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial6_IfStatements/src
+2016-07-16 12:18:52,342 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial6_IfStatements/src/test/java because it overlaps with /Tutorial6_IfStatements/src
+2016-07-16 12:18:52,383 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-16 12:18:52,503 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:18:52,503 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial6_IfStatements/src/main/resources
+2016-07-16 12:18:52,506 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:18:52,507 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial6_IfStatements/src/test/resources
+2016-07-16 12:18:59,284 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial7_Scanners:Tutorial7_Scanners:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial7_Scanners/pom.xml.
+2016-07-16 12:18:59,880 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:18:59,880 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial7_Scanners/src/main/resources
+2016-07-16 12:18:59,883 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:18:59,884 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial7_Scanners/src/test/resources
+2016-07-16 12:19:00,133 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial7_Scanners/src
+2016-07-16 12:19:00,134 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial7_Scanners/src/test/java because it overlaps with /Tutorial7_Scanners/src
+2016-07-16 12:19:00,172 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-16 12:19:00,531 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial7_Scanners:Tutorial7_Scanners:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial7_Scanners/pom.xml.
+2016-07-16 12:19:00,789 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:19:00,790 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial7_Scanners/src/main/resources
+2016-07-16 12:19:00,794 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:19:00,794 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial7_Scanners/src/test/resources
+2016-07-16 12:19:01,070 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial7_Scanners/src
+2016-07-16 12:19:01,071 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial7_Scanners/src/test/java because it overlaps with /Tutorial7_Scanners/src
+2016-07-16 12:19:01,108 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-16 12:19:01,265 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:19:01,266 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial7_Scanners/src/main/resources
+2016-07-16 12:19:01,267 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:19:01,267 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial7_Scanners/src/test/resources
+2016-07-16 12:19:06,454 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial8_DoWhileLoops:Tutorial8_DoWhileLoops:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial8_DoWhileLoops/pom.xml.
+2016-07-16 12:19:06,655 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial8_DoWhileLoops/src
+2016-07-16 12:19:06,656 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial8_DoWhileLoops/src/test/java because it overlaps with /Tutorial8_DoWhileLoops/src
+2016-07-16 12:19:06,692 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-16 12:19:06,719 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial8_DoWhileLoops:Tutorial8_DoWhileLoops:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial8_DoWhileLoops/pom.xml.
+2016-07-16 12:19:06,770 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial8_DoWhileLoops/src
+2016-07-16 12:19:06,771 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial8_DoWhileLoops/src/test/java because it overlaps with /Tutorial8_DoWhileLoops/src
+2016-07-16 12:19:06,817 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-16 12:19:06,941 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:19:06,942 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial8_DoWhileLoops/src/main/resources
+2016-07-16 12:19:06,943 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:19:06,944 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial8_DoWhileLoops/src/test/resources
+2016-07-16 12:19:14,284 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial9_SwitchCaseStatements:Tutorial9_SwitchCaseStatements:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial9_SwitchCaseStatements/pom.xml.
+2016-07-16 12:19:14,432 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial9_SwitchCaseStatements/src
+2016-07-16 12:19:14,432 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Tutorial9_SwitchCaseStatements/src overlaps with sources folder /Tutorial9_SwitchCaseStatements/src
+2016-07-16 12:19:14,439 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial9_SwitchCaseStatements/src/test/java because it overlaps with /Tutorial9_SwitchCaseStatements/src
+2016-07-16 12:19:14,481 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-16 12:19:14,821 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial9_SwitchCaseStatements:Tutorial9_SwitchCaseStatements:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial9_SwitchCaseStatements/pom.xml.
+2016-07-16 12:19:14,909 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial9_SwitchCaseStatements/src
+2016-07-16 12:19:14,909 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Tutorial9_SwitchCaseStatements/src overlaps with sources folder /Tutorial9_SwitchCaseStatements/src
+2016-07-16 12:19:14,913 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial9_SwitchCaseStatements/src/test/java because it overlaps with /Tutorial9_SwitchCaseStatements/src
+2016-07-16 12:19:15,009 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-16 12:19:15,139 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:19:15,154 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-16 12:19:15,164 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:19:15,165 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial9_SwitchCaseStatements/src/test/resources
+2016-07-16 12:19:21,718 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial10_Arrays:Tutorial10_Arrays:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial10_Arrays/pom.xml.
+2016-07-16 12:19:21,863 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial10_Arrays/src
+2016-07-16 12:19:21,863 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Tutorial10_Arrays/src overlaps with sources folder /Tutorial10_Arrays/src
+2016-07-16 12:19:21,870 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial10_Arrays/src/test/java because it overlaps with /Tutorial10_Arrays/src
+2016-07-16 12:19:21,910 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-16 12:19:22,215 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tutorial10_Arrays:Tutorial10_Arrays:0.0.1-SNAPSHOT @ /Users/Jason/Desktop/codingKatas/java/Tutorial10_Arrays/pom.xml.
+2016-07-16 12:19:22,271 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tutorial10_Arrays/src
+2016-07-16 12:19:22,271 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Tutorial10_Arrays/src overlaps with sources folder /Tutorial10_Arrays/src
+2016-07-16 12:19:22,274 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Tutorial10_Arrays/src/test/java because it overlaps with /Tutorial10_Arrays/src
+2016-07-16 12:19:22,307 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-16 12:19:22,551 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:19:22,552 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-16 12:19:22,554 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 12:19:22,554 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Jason/Desktop/codingKatas/java/Tutorial10_Arrays/src/test/resources
