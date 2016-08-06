@@ -3,3 +3,5 @@ java/.metadata
 java/.*
 .metadata
 .recommenders
+.metadata
+.settings
