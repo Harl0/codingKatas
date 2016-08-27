@@ -8,8 +8,15 @@ package org.me.hotel
  * We will create automatically a bunch of 10 rooms
  * if these are not specified.
  */
-case class Hotel(
-                  rooms: List[Room] = (1 to 10).map(n => Room(number=n)).toList) {
+case class Hotel(rooms: List[Room] = (1 to 10).map(n => Room(number=n)).toList){
 
-  def checkin(personName: String): Hotel = ???
+  require(!rooms.isEmpty,"there are no rooms at all!")
+
+  def checkin(personName: String): Hotel = {
+    val (free,occupied) = rooms.partition(_.isFree)
+    require(!free.isEmpty, "There are no free rooms")
+    val (selectedRoom::restEmpty) = free
+    Hotel(selectedRoom.checkin(Guest(personName)) +: (restEmpty ++ occupied))
+  }
+
 }

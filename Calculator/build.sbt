@@ -1,4 +1,4 @@
-name := "Calculator"
+name := "org.me.methods.Calculator"
 
 version := "1.0"
 
