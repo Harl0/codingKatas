@@ -1,4 +1,4 @@
-name := "PracticeMethods"
+name := "calculator.Calculator"
 
 version := "1.0"
 
