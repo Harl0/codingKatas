@@ -5,10 +5,18 @@ package org.me.hotel
   */
 case class Room(number: Int, guest: Option[Guest] = None){ room =>
 
-  def isAvailable(): Boolean = ???
+  // check to see if room has a guest
+  def isFree(): Boolean =
+    guest.isEmpty
 
-  def checkin(guest: Guest): Room = ???
+  def checkin(guest: Guest): Room = {
+    require(room.guest.isEmpty, "Room is occupied")
+    Room(number,Some(guest))
+  }
 
-  def checkout(): Room = ???
+  def checkout(): Room = {
+    require(guest.isDefined,"Room is already free")
+    Room(number,None)
+  }
 
 }

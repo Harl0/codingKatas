@@ -1,4 +1,4 @@
-name := "Calculator"
+name := "calculator.Calculator"
 
 version := "1.0"
 

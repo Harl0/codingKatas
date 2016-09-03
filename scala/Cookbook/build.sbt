@@ -1,4 +1,4 @@
-name := "PracticeMethods"
+name := "Cookbook"
 
 version := "1.0"
 

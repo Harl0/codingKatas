@@ -4,6 +4,8 @@
 *.recommenders
 *.metadata
 *.idea
+*RemoteSystemsTempFiles
+*.DS_Store
 
 # sbt specific
 .cache
